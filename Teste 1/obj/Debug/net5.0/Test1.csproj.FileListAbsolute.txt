@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Fluency Academy\Test1\bin\Debug\net5.0\Test1.exe
+C:\Users\User\Desktop\Fluency Academy\Test1\bin\Debug\net5.0\Test1.deps.json
+C:\Users\User\Desktop\Fluency Academy\Test1\bin\Debug\net5.0\Test1.runtimeconfig.json
+C:\Users\User\Desktop\Fluency Academy\Test1\bin\Debug\net5.0\Test1.runtimeconfig.dev.json
+C:\Users\User\Desktop\Fluency Academy\Test1\bin\Debug\net5.0\Test1.dll
+C:\Users\User\Desktop\Fluency Academy\Test1\bin\Debug\net5.0\Test1.pdb
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.AssemblyInfo.cs
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.dll
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\refint\Test1.dll
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.pdb
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\Test1.genruntimeconfig.cache
+C:\Users\User\Desktop\Fluency Academy\Test1\obj\Debug\net5.0\ref\Test1.dll
+C:\Users\User\Desktop\Academia do Programador\Teste 1\bin\Debug\net5.0\Test1.exe
+C:\Users\User\Desktop\Academia do Programador\Teste 1\bin\Debug\net5.0\Test1.deps.json
+C:\Users\User\Desktop\Academia do Programador\Teste 1\bin\Debug\net5.0\Test1.runtimeconfig.json
+C:\Users\User\Desktop\Academia do Programador\Teste 1\bin\Debug\net5.0\Test1.runtimeconfig.dev.json
+C:\Users\User\Desktop\Academia do Programador\Teste 1\bin\Debug\net5.0\Test1.dll
+C:\Users\User\Desktop\Academia do Programador\Teste 1\bin\Debug\net5.0\Test1.pdb
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.AssemblyInfo.cs
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.dll
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\refint\Test1.dll
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.pdb
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\Test1.genruntimeconfig.cache
+C:\Users\User\Desktop\Academia do Programador\Teste 1\obj\Debug\net5.0\ref\Test1.dll
